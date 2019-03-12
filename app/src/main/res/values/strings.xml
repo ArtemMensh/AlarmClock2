@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AlarmClock 2</string>
+    <string name="add">Добавить</string>
+    <string name="save_alarm">Сохранить</string>
+    <string name="Sunday">Воскресение</string>
+    <string name="Monday">Понедельник</string>
+    <string name="Tuesday">Вторник</string>
+    <string name="Wednesday">Среда</string>
+    <string name="Thursday">Четверг</string>
+    <string name="Friday">Пятница</string>
+    <string name="Saturday">Суббота</string>
+    <string name="OK">OK</string>
+    <string name="you_choise">Вы выбрали</string>
+    <string name="choise_day">Выберите дни повтора</string>
+    <string name="repiate">Повторение</string>
+    <string name="choise_muisic">Установить сигнал</string>
+    <string name="enter_hello">Введите приветствие</string>
+</resources>
